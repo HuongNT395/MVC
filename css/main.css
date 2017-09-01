@@ -12,6 +12,7 @@ h1 {
     border: 1px solid black;
     padding: 20px;
 }
+/*start nav*/
 nav {
     background-color: rgba(76,11,9,0.88);
 }
@@ -32,6 +33,7 @@ nav li a:hover {
     font-weight: 600;
     background-color: rgba(182,79,18,0.88);
 }
+/*end nav*/
 article {
     margin-top: 20px;
 }
